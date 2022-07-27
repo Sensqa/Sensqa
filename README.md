@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Sensqa
-- 👀 I’m interested in ur mom 😂
-- 🌱 I’m currently learning coding (already know :/)
-- 📫 How to reach me -- CatBoy#0002
+
